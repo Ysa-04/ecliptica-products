@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "product-name": "Tarot Kaarten Deck",
+        "image-url": "https://raw.githubusercontent.com/Ysa-04/ecliptica-products/refs/heads/main/images/product1-tarot-deck.png",
+        "product-description": "Ontdek de geheimen van het universum met deze prachtig vormgegeven tarotkaarten. Perfect voor zelfreflectie, intuïtieve begeleiding of het verdiepen van jouw spirituele praktijk. Elke kaart nodigt je uit om het onzichtbare te verkennen en te verbinden met je innerlijke wijsheid.",
+        "price": 29.99
+    }, 
+    {
+        "id": 2,
+        "product-name": "Copal wierrook",
+        "image-url": "https://raw.githubusercontent.com/Ysa-04/ecliptica-products/refs/heads/main/images/product2-copal-wierrook.png",
+        "product-description": "Deze zuivere Copal wierook reinigt jouw ruimte en nodigt positieve energie uit. Ideaal voor rituelen, meditatie of een moment van ontspanning. Laat de zachte, aardse geur je zintuigen openen en je spirituele bewustzijn verhogen.",
+        "price": 7.99
+    },
+    {
+        "id": 3,
+        "product-name": "Ouija bord",
+        "image-url": "https://raw.githubusercontent.com/Ysa-04/ecliptica-products/refs/heads/main/images/product3-ouija-board.png",
+        "product-description": "Ga in contact met het onbekende met dit elegante Ouija bord. Een intrigerend hulpmiddel voor rituelen, spirituele verkenning en mysterieuze avondbijeenkomsten. Gebruik met respect en openheid om verborgen boodschappen te ontdekken.",
+        "price": 27.50
+    },
+    {
+        "id": 4,
+        "product-name": "Wierrook brander",
+        "image-url": "https://raw.githubusercontent.com/Ysa-04/ecliptica-products/refs/heads/main/images/product4-wierrook-brander.png",
+        "product-description": "Brand je favoriete wierook op een veilige en stijlvolle manier met deze sierlijke wierrookbrander. Geschikt voor zowel stokjes als kegels. Voeg een vleugje magie toe aan jouw rituelen of dagelijkse meditatiepraktijk.",
+        "price": 23.95
+    },
+    {
+        "id": 5,
+        "product-name": "Nazar oog hanger",
+        "image-url": "https://raw.githubusercontent.com/Ysa-04/ecliptica-products/refs/heads/main/images/product5-nazar-oog-hanger.png",
+        "product-description": "Bescherm jezelf tegen negatieve energie met deze prachtige Nazar oog hanger. Een krachtig symbool van bescherming en intuïtieve waakzaamheid, perfect om op te hangen in huis of aan jezelf te dragen.",
+        "price": 23.95
+
+    },
+    {
+        "id": 6,
+        "product-name": "NBergkristal armband",
+        "image-url": "https://raw.githubusercontent.com/Ysa-04/ecliptica-products/refs/heads/main/images/product6-bergkristal-armband.png",
+        "product-description": "Draag de kracht van de bergen bij je met deze elegante bergkristal armband. Helpt energie in balans te brengen, helderheid te bevorderen en je spirituele pad te ondersteunen. Een subtiel, stijlvol sieraad met diepe betekenis.",
+        "price": 8.95
+    }
+    
+]
